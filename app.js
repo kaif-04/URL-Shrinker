@@ -28,7 +28,6 @@ mongoose
   })
   .then(() => console.log('mongoose connected '))
   .catch((error) => console.log('Error connecting..'))
-
 // Set the view engine to render EJS templates
 app.set('view engine', 'ejs')
 

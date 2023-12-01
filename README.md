@@ -4,7 +4,7 @@ This is an example of how to make a application which shortens the url entered b
 
 **MongoDB** is used for storing Users in Database.
 
----
+--
 
 ## To start setting up the project
 
